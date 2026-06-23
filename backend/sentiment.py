@@ -1,0 +1,2 @@
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+# NLP code
